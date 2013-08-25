@@ -1,0 +1,4 @@
+name = Load Node Ajax
+core = 7.x
+package = Custom
+scripts[] = load_node_ajax.js
